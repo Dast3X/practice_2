@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="315be97c-5221-4e64-a8a1-b0eca06da6be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice 2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lv/tsi/priority/PriorityMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lv/tsi/priority/PriorityThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lv/tsi/producer_consumer/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lv/tsi/producer_consumer/Goods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lv/tsi/producer_consumer/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lv/tsi/producer_consumer/ProducerConsumerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lv/tsi/queue/AddingThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lv/tsi/queue/BlockingMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lv/tsi/queue/TakingThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lv/tsi/sync/SyncMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lv/tsi/sync/TaskManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lv/tsi/sync/TaskThread.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GRcINCI0OcoztojQuPQ7z3Hlki" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "E:/Java projects/practice 2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java projects\practice 2\src\lv\tsi\sync" />
+      <recent name="E:\Java projects\practice 2\src\lv\tsi\queue" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java projects\practice 2\src\lv\tsi\producer_consumer" />
+      <recent name="E:\Java projects\practice 2\src" />
+      <recent name="E:\Java projects\practice 2\src\lv\tsi\priority" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BlockingMain">
+    <configuration name="BlockingMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lv.tsi.queue.BlockingMain" />
+      <module name="practice 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lv.tsi.queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProducerConsumerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lv.tsi.producer_consumer.ProducerConsumerMain" />
+      <module name="practice 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lv.tsi.producer_consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SyncMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lv.tsi.sync.SyncMain" />
+      <module name="practice 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lv.tsi.sync.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BlockingMain" />
+        <item itemvalue="Application.SyncMain" />
+        <item itemvalue="Application.ProducerConsumerMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="315be97c-5221-4e64-a8a1-b0eca06da6be" name="Changes" comment="" />
+      <created>1666354757932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666354757932</updated>
+      <workItem from="1666354759190" duration="4386000" />
+      <workItem from="1666442568902" duration="6805000" />
+      <workItem from="1666450359905" duration="630000" />
+      <workItem from="1666936478850" duration="261000" />
+      <workItem from="1666961125017" duration="604000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
